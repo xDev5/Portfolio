@@ -1,0 +1,16 @@
+.tilted{ background-color: #ffcc00;
+    color:#0000FF ;
+    border:solid rgb(0, 0, 0) 2px;}
+    
+    .tilted{
+      text-align:center;
+      /*text-decoration-line: underline;*/
+      
+      height: 22px;
+    width: 200px;
+    }
+    
+    .tilted{
+      
+      transform: rotate(-32deg);
+    }
